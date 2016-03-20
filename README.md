@@ -36,7 +36,7 @@ predicted_value:  3.142175
 expected_value:  3.14159265359
 error percent:  0.000185366619552
 
-Labaoucheres approach - Suppose you aim to win 10$ out of 100$ you bet. Consider a wage size of {1,1,1,1,1,1,1,1,1,1} each time you wage an amount amounting to the sum of first and last element. If you lose append this sum back to the array, else delete the first and last element of the list. 
+Laboucheres approach - Suppose you aim to win 10$ out of 100$ you bet. Consider a wage size of {1,1,1,1,1,1,1,1,1,1} each time you wage an amount amounting to the sum of first and last element. If you lose append this sum back to the array, else delete the first and last element of the list. 
 
 Results:
 
