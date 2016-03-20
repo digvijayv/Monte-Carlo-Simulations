@@ -1,1 +1,4 @@
 # Monte-Carlo-Simulations
+Monte Carlo simulations are rudementry tests of various outcome probabilities. It also underlines all the risks involved and potential outcomes of your experiment. Once such experiment that is accesed in this repo is the gamblers fallacy.
+
+Gambler's Fallacy also called Monte Carlo fallacy is a naive "trap" in which even at times professioanl gamblers fall prey to. Humans interpret that if something happens more frequently, it will happen less frequently in the future. Such as a coin toss, but that is not the truth each time you flip a coin the probability of "tails" to be registered will always be equal to that of "heads" no matter how many heads or tails preceeded previously in a row.
