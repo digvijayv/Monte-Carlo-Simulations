@@ -22,3 +22,16 @@ lost money:  33.4
 #######################
 Making money huh $$ ;)
 
+3D scatter plot of this approach plotted
+
+Monte Carlo strategy can even be used to predict the value of "PI".Consider a circle inside a square the area of that circle will be pi*r^2/4 and the are of square is r^2. 
+Strategy - Choose a large number of sample points inside the square randomly, each of them will have a probability of pi/4 to be inside the circle. Hence the program calculate whether the point is inside the circle or not and multiple the probability by 4 to get the approx. value of PI.
+
+Results:
+side = 800
+samples = 640000
+pts_in_circle = 502748
+pts_out_circle 137252
+predicted_value:  3.142175
+expected_value:  3.14159265359
+error percent:  0.000185366619552
